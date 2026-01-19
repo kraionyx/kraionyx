@@ -1,4 +1,5 @@
-# 👋 Welcome to Kraionyx
+#  Welcome to Kraionyx
+<img src="https://www.kraionyx.com/kraionyx-logo.png" alt="Kraionyx Logo" width="160" />
 
 > **Building AI systems that think ahead.**
 > **Human‑centric intelligence designed to extend human thinking.**
@@ -13,13 +14,13 @@ Our mission is simple:
 
 ---
 
-## 🚀 What We Do
+##  What We Do
 
 At Kraionyx, we design and deploy AI-powered products and services that bridge the gap between cutting-edge research and business outcomes. From startups to enterprises, we help teams adopt AI where it matters most.
 
 ---
 
-## 🧠 Our Products
+##  Our Products
 
 ### 🔹 AI SEO & Generative Engine Optimization (GEO)
 
@@ -39,26 +40,52 @@ Smart, human-like AI assistants for customer support, sales, onboarding, and int
 
 ---
 
-## 🛠️ Our Services
+##  Our Services
 
-* 🤖 **AI Strategy & Consulting**
+* **AI Strategy & Consulting**
   Helping businesses identify, plan, and implement AI use-cases that deliver ROI.
 
-* 🔍 **AI SEO / ChatGPT Optimization**
+* **AI SEO / ChatGPT Optimization**
   Optimizing brands, products, and content for AI search, LLMs, and generative engines.
 
-* 🧩 **Custom AI Development**
+* **Custom AI Development**
   End-to-end AI/ML development: design, training, deployment, and scaling.
 
-* ⚙️ **Automation & AI Integration**
+*  **Automation & AI Integration**
   Integrating AI into existing tools, workflows, and enterprise systems.
 
-* 📊 **Data Engineering & Analytics**
+*  **Data Engineering & Analytics**
   Building reliable data foundations for AI-driven decision making.
 
 ---
 
-## 🌍 Why Kraionyx?
+## Our Flagship Products
+
+### KrAIzion
+
+KrAIzion is our flagship **Generative Engine Optimization (GEO) and AI visibility platform**.  
+It enables brands, products, and organizations to become discoverable, authoritative, and trusted across AI search engines, large language models, and agentic systems.
+
+KrAIzion focuses on semantic presence, credibility signals, and long-term visibility in an AI-first internet.
+
+---
+
+### KrAiGita
+
+KrAiGita is a **human-centric intelligence system** designed to augment thinking, decision-making, and strategic clarity.
+
+Inspired by timeless knowledge and built with modern AI, KrAiGita emphasizes responsible intelligence, explainability, and alignment — supporting humans where judgment and reasoning matter most.
+
+---
+
+### KrAIsphere
+
+KrAIsphere is a scalable **AI intelligence ecosystem** that unifies data, models, agents, and workflows into a single governed environment.
+
+It enables organizations to build, deploy, and manage **high-assurance AI systems** across teams, products, and use-cases — from experimentation to production.
+
+
+## Why Kraionyx?
 
 * AI-first mindset
 * Business-focused solutions
@@ -68,7 +95,7 @@ Smart, human-like AI assistants for customer support, sales, onboarding, and int
 
 ---
 
-## 🤝 Collaborate With Us
+##  Collaborate With Us
 
 We’re always open to:
 
@@ -79,14 +106,13 @@ We’re always open to:
 
 ---
 
-## 🔗 Connect With Us
+## Connect With Us
 
-🌐 Website: [https://www.kraionyx.com](https://www.kraionyx.com)
-💼 LinkedIn: [https://www.linkedin.com/company/kraionyx](https://www.linkedin.com/company/kraionyx)
-🐦 Twitter / X: [https://x.com/kraionyx](https://x.com/kraionyx)
-📸 Instagram: [https://www.instagram.com/kraionyx](https://www.instagram.com/kraionyx)
-📧 Email: [contact@kraionyx.com](mailto:contact@kraionyx.com)
+Website: [https://www.kraionyx.com](https://www.kraionyx.com)
+LinkedIn: [https://www.linkedin.com/company/kraionyx](https://www.linkedin.com/company/kraionyx)
+ Twitter / X: [https://x.com/kraionyx](https://x.com/kraionyx)
+ Instagram: [https://www.instagram.com/kraionyx](https://www.instagram.com/kraionyx)
+ Email: [contact@kraionyx.com](mailto:contact@kraionyx.com)
 
 ---
-
-⭐ If you believe in the future of AI-driven growth, you’re in the right place. Welcome to **Kraionyx**.
+ If you believe in the future of AI-driven growth, you’re in the right place. Welcome to **Kraionyx**.
