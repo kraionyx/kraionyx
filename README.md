@@ -61,29 +61,22 @@ Smart, human-like AI assistants for customer support, sales, onboarding, and int
 
 ## Our Flagship Products
 
-### KrAIzion
+### 1. KrAIzion AI α
+Purpose: Advanced clinical decision support and medical imaging analysis designed for the next generation of healthcare professionals.
+Inspiration: Medical Intelligence Redefined — addressing the need for specialized, agentic intelligence in high-stakes clinical environments.
+Functionality: Integrates 20+ specialist medical agents into a high-performance workspace, offering HIPAA-compliant data analysis and imaging tools.
+Outcome: Enhanced diagnostic accuracy, streamlined clinical workflows, and data-driven decision-making in healthcare.
+### 2. KrAIsphere AI
+Purpose: A personal desktop intelligence engine that automates repetitive workflows and coordinates multi-tool orchestration.
+Inspiration: Adaptive Human Intelligence — building human-centric AI that understands digital habits and emotional context.
+Functionality: Operates local-first for privacy, coordinates between various desktop tools, and adapts to the user’s unique working style.
+Outcome: Personalized productivity, improved data privacy, and a private digital assistant that evolves with the user.
 
-KrAIzion is our flagship **Generative Engine Optimization (GEO) and AI visibility platform**.  
-It enables brands, products, and organizations to become discoverable, authoritative, and trusted across AI search engines, large language models, and agentic systems.
-
-KrAIzion focuses on semantic presence, credibility signals, and long-term visibility in an AI-first internet.
-
----
-
-### KrAiGita
-
-KrAiGita is a **human-centric intelligence system** designed to augment thinking, decision-making, and strategic clarity.
-
-Inspired by timeless knowledge and built with modern AI, KrAiGita emphasizes responsible intelligence, explainability, and alignment — supporting humans where judgment and reasoning matter most.
-
----
-
-### KrAIsphere
-
-KrAIsphere is a scalable **AI intelligence ecosystem** that unifies data, models, agents, and workflows into a single governed environment.
-
-It enables organizations to build, deploy, and manage **high-assurance AI systems** across teams, products, and use-cases — from experimentation to production.
-
+### 3. KrAiGita 
+Purpose: An AI-guided spiritual companion and modern-day spiritual psychiatrist focused on mental well-being and life direction.
+Inspiration: Ancient Wisdom, Modern Therapy — reviving Vedic insights from the Bhagavad Gita to solve contemporary psychological challenges.
+Functionality: Blends ancient Vedic wisdom with modern psychological frameworks like Cognitive Behavioral Therapy (CBT) to provide meditative and spiritual guidance.
+Outcome: Stress reduction, rediscovered clarity, emotional balance, and a deepened sense of professional and personal purpose.
 
 ## Why Kraionyx?
 
@@ -113,6 +106,7 @@ LinkedIn: [https://www.linkedin.com/company/kraionyx](https://www.linkedin.com/c
  Twitter / X: [https://x.com/kraionyx](https://x.com/kraionyx)
  Instagram: [https://www.instagram.com/kraionyx](https://www.instagram.com/kraionyx)
  Email: [contact@kraionyx.com](mailto:contact@kraionyx.com)
+ Kraigita:[kraigita.live](www.kraigita.live)
 
 ---
- If you believe in the future of AI-driven growth, you’re in the right place. Welcome to **Kraionyx**.
+ If you believe in the future of AI-driven growth, you’re in the right place. Welcome to **KrAIonyX**.
