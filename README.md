@@ -1,10 +1,10 @@
 <table>
   <tr>
-    <td width="180">
+    <td width="280">
       <img src="https://www.kraionyx.com/kraionyx-logo.png" alt="Kraionyx Logo" width="160"/>
     </td>
     <td>
-      <h1>Welcome to Kraionyx</h1>
+      <h1>Welcome to KrAIonyX</h1>
       <p><b>Building AI systems that think ahead.</b></p>
     </td>
   </tr>
