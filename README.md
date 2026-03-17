@@ -1,14 +1,10 @@
-<table>
-  <tr>
-    <td width="280">
-      <img src="https://www.kraionyx.com/kraionyx-logo.png" alt="Kraionyx Logo" width="160"/>
-    </td>
-    <td>
-      <h1>Welcome to KrAIonyX</h1>
-      <p><b>Building AI systems that think ahead.</b></p>
-    </td>
-  </tr>
-</table>
+<div style="display:flex; align-items:center;">
+  <img src="https://www.kraionyx.com/kraionyx-logo.png" alt="Kraionyx Logo" width="160" style="margin-right:16px;">
+  <div>
+    <h1 style="margin:0;">Welcome to KrAIonyX</h1>
+    <p style="margin:0;"><b>Building AI systems that think ahead.</b></p>
+  </div>
+</div>
 
 > **Building AI systems that think ahead.**
 > **Human‑centric intelligence designed to extend human thinking.**
