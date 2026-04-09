@@ -1,7 +1,7 @@
 <div style="display:flex; align-items:center;">
   <img src="https://www.kraionyx.com/kraionyx-logo.png" alt="Kraionyx Logo" width="160" style="margin-right:16px;">
   <div>
-    <h1 style="margin:0;">Welcome to KrAIonyX</h1>
+    <h1 style="margin:0;">KrAIonyX Building agentic AI systems | GEO, AI infrastructure, and intelligent products</h1>
     <p style="margin:0;"><b>Building AI systems that think ahead.</b></p>
   </div>
 </div>
